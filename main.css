@@ -1,0 +1,18 @@
+
+.pr{
+    display: flex;
+    justify-content: space-around;
+  
+    align-items: center;
+    flex-wrap: wrap;
+}
+.do{
+    text-align: center;
+    border-radius: 20%;
+    background-color: aliceblue;
+
+}
+.do img{
+    height: 150px;
+    width: 150px;
+}
